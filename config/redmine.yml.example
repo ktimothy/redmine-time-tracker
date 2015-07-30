@@ -1,0 +1,7 @@
+# TODO: copy this example to redmine.yml and fill in your login data
+
+# redmine server that implements REST API
+server: https://redmine.sqtools.ru
+
+username: john.doe
+password: azerty

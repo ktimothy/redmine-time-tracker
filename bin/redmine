@@ -1,1 +1,1 @@
-cd "${BASH_SOURCE%/*}"/.. && ruby redmine_tracker.rb $*
+cd "${BASH_SOURCE%/*}"/.. && ruby redmine_tracker.rb "$@"
